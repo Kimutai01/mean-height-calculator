@@ -9,8 +9,3 @@ for score in student_scores:
 
 print(f"The highest score in the class is: {high_score}")
 
-
-print(student_scores)
-
-print(max(student_scores))
-print(min(student_scores))
